@@ -27,7 +27,11 @@ A "Next Generation Digital Banking" landing page featuring a complex hero sectio
 
 ### Easybank Preview
 
-<img width="512" height="234" alt="unnamed" src="https://github.com/user-attachments/assets/3196c3f4-3eaf-41e8-8c07-9a8658072684" /> [Easybank Landing Page]
+<img width="512" height="234" alt="unnamed" src="https://github.com/user-attachments/assets/3196c3f4-3eaf-41e8-8c07-9a8658072684" /> 
+
+
+
+[Easybank Landing Page]
 
 
 ---
@@ -57,5 +61,6 @@ Aditya Singh
 
 * **Skills**: Frontend Development 
 ---
+
 
 
