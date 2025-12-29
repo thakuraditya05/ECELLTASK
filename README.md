@@ -26,7 +26,8 @@ A "Next Generation Digital Banking" landing page featuring a complex hero sectio
 
 
 ### Easybank Preview
-![Easybank Landing Page](image_606e81.png)
+![Easybank Landing Page](ima<img width="512" height="234" alt="unnamed" src="https://github.com/user-attachments/assets/3196c3f4-3eaf-41e8-8c07-9a8658072684" />
+ge_606e81.png)
 
 ---
 
@@ -47,15 +48,11 @@ A "Next Generation Digital Banking" landing page featuring a complex hero sectio
     ├── index.html            # Easybank Main Page
     └── README.md             # Project documentation
 
----
+--- 
+## 👨‍💻 Developer
 
-## 👨‍💻  Author
+Aditya Singh
+* **GitHub**: @thakur-aditya05 & @thakuraditya05
 
-**Aditya Singh**
-
-GitHub_account_1: *@thakur-aditya05*.
-
-GitHub_account_2: *@thakuraditya05*.
-
-
+* **Skills**: Frontend Development 
 ---
